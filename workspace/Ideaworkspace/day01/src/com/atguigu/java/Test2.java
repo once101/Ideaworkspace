@@ -7,9 +7,7 @@ public class Test2 {
     public String change(String str,char ch[]){
         str = "test ok";
         ch[0] = 'b';
-
         return str;
-
     }
 
     public static void main(String[] args) {

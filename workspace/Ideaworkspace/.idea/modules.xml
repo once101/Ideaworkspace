@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ideaworkspace.iml" filepath="$PROJECT_DIR$/Ideaworkspace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dau02/dau02.iml" filepath="$PROJECT_DIR$/dau02/dau02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Demo/Maven-Demo.iml" filepath="$PROJECT_DIR$/Maven-Demo/Maven-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat-demo1/Tomcat-demo1.iml" filepath="$PROJECT_DIR$/Tomcat-demo1/Tomcat-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat-demo2/Tomcat-demo2.iml" filepath="$PROJECT_DIR$/Tomcat-demo2/Tomcat-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vue-demo/Vue-demo.iml" filepath="$PROJECT_DIR$/Vue-demo/Vue-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-demo/ajax-demo.iml" filepath="$PROJECT_DIR$/ajax-demo/ajax-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-final/brand-final.iml" filepath="$PROJECT_DIR$/brand-final/brand-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie-demo/cookie-demo.iml" filepath="$PROJECT_DIR$/cookie-demo/cookie-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/day07.iml" filepath="$PROJECT_DIR$/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/day08.iml" filepath="$PROJECT_DIR$/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter-demo/filter-demo.iml" filepath="$PROJECT_DIR$/filter-demo/filter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html/html.iml" filepath="$PROJECT_DIR$/html/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-demo/jdbc-demo.iml" filepath="$PROJECT_DIR$/jdbc-demo/jdbc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp-demo/jsp-demo.iml" filepath="$PROJECT_DIR$/jsp-demo/jsp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-BrandTest/mybatis-BrandTest.iml" filepath="$PROJECT_DIR$/mybatis-BrandTest/mybatis-BrandTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
     </modules>
   </component>
 </project>
